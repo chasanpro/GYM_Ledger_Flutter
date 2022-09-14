@@ -1,21 +1,39 @@
-# dharims_web
+# Ledger APP made with Flutter💙
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Flutter_Ledger_Mobile
-# Flutter_Ledger_Mobile
+Firebase as Database
+Flutter SDK
+
+Flutter Aspects in my app:
+Fingerprint Authentication
+Google Firebase Login
+File Picker
+Sms for users
+BUlk sms for all registered users
+Date Picker & parser
+Business Logic in Dart
+Web Support with single Code base 
+Firebase Storage for storing images
+Firebase cloud databse for saving doc
+Lottie json animation for LOGO animation
+Google fonts
+icons from Material UI
+Fluid nav bar
+Snackbar for IN APP notification
+Log in and Out smoothly
+App intro LOGO [Splash Screen]
+removed unused Flutter packages for optimizing apk size
+Storing Image assets in Firebaase for apk size reducing
+git for version control
+
+
+
 
 
 
