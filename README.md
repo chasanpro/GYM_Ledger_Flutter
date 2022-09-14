@@ -12,8 +12,8 @@ Flutter SDK
 
 Flutter Aspects in my app:
 - Fingerprint Authentication
-Google Firebase Login
-File Picker
+- Google Firebase Login
+- File Picker
 Sms for users
 BUlk sms for all registered users
 Date Picker & parser
