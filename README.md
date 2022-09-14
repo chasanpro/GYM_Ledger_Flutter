@@ -11,7 +11,7 @@ Firebase as Database
 Flutter SDK
 
 Flutter Aspects in my app:
-Fingerprint Authentication
+- Fingerprint Authentication
 Google Firebase Login
 File Picker
 Sms for users
