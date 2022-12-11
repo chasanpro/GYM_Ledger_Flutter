@@ -14,13 +14,14 @@ Flutter Aspects in my app:
 - Fingerprint Authentication
 - Google Firebase Login
 - File Picker
-- Sms for users
+- Invidual Sms ALerts
 - BUlk sms for all registered users
 - Date Picker & parser
 - Business Logic in Dart
 - Web Support with single Code base 
 - Firebase Storage for storing images
-- Firebase cloud databse for saving doc
+- Firebase cloud databse for saving doc 
+- [Transactional - NOSQL - Document Orineted Cloud Database]
 - Lottie json animation for LOGO animation
 - Google fonts
 - icons from Material UI
