@@ -21,7 +21,7 @@ Flutter Aspects in my app:
 - Web Support with single Code base 
 - Firebase Storage for storing images
 - Firebase cloud databse for saving doc 
-- [Transactional - NOSQL - Document Orineted Cloud Database]
+- [Transactional - NOSQL - Document Oriented Cloud Database]
 - Lottie json animation for LOGO animation
 - Google fonts
 - icons from Material UI
