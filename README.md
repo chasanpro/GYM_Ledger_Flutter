@@ -14,25 +14,27 @@ Flutter Aspects in my app:
 - Fingerprint Authentication
 - Google Firebase Login
 - File Picker
-- Invidual Sms ALerts
-- BUlk sms for all registered users
+- Invidual Sms Alerts
+- Bulk sms for all registered users
 - Date Picker & parser
 - Business Logic in Dart
 - Web Support with single Code base 
-- Firebase Storage for storing images
+- Firebase Storage for storing images, assets
 - Firebase cloud databse for saving doc 
 - [Transactional - NOSQL - Document Oriented Cloud Database]
-- Lottie json animation for LOGO animation
-- Google fonts
+- Lottie json animation for LOGO animation, splash screen animation
+- Google fonts 
 - icons from Material UI
 - Fluid nav bar
 - Snackbar for IN APP notification
-- Log in and Out smoothly
-- App intro LOGO [Splash Screen]
+- Firebase Auth for Firebase authentication
+- App intro LOGO [Splash Screen] remote fetched from cloud storage 
 - removed unused Flutter packages for optimizing apk size
-- Storing Image assets in Firebaase for apk size reducing
+- Storing Image assets in Firebaase for apk size reduction
 - git for version control
-- Locking for potrait mode 
+- Locking for potrait mode to avoid ui issues 
+- Animated List view ,lazy loading 
+- State-management using Inherited Widget
 
 
 
