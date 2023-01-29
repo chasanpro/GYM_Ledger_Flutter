@@ -30,13 +30,14 @@ Flutter Aspects in my app:
 - Snackbar for IN APP notification!
 - Firebase Auth for Firebase authentication
 - App intro LOGO [Splash Screen] remote fetched from cloud storage 
-- removed unused Flutter packages for optimizing apk size![20230129_150514055-01](https://user-images.githubusercontent.com/61396515/215318504-b5e06a36-9939-46bc-89d0-7edeee499670.jpeg)
-
+- removed unused Flutter packages for optimizing apk size
 - Storing Image assets in Firebaase for apk size reduction
 - git for version control
 - Locking for potrait mode to avoid ui issues 
 - Animated List view ,lazy loading 
 - State-management using Inherited Widget
+
+![20230129_150514055-01](https://user-images.githubusercontent.com/61396515/215318527-2e0001eb-6876-4a5f-939f-ca143660576c.jpeg)
 
 
 
