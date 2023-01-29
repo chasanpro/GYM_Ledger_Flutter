@@ -27,10 +27,11 @@ Flutter Aspects in my app:
 - Google fonts 
 - icons from Material UI
 - Fluid nav bar
-- Snackbar for IN APP notification
+- Snackbar for IN APP notification!
 - Firebase Auth for Firebase authentication
 - App intro LOGO [Splash Screen] remote fetched from cloud storage 
-- removed unused Flutter packages for optimizing apk size
+- removed unused Flutter packages for optimizing apk size![20230129_150514055-01](https://user-images.githubusercontent.com/61396515/215318504-b5e06a36-9939-46bc-89d0-7edeee499670.jpeg)
+
 - Storing Image assets in Firebaase for apk size reduction
 - git for version control
 - Locking for potrait mode to avoid ui issues 
@@ -38,21 +39,4 @@ Flutter Aspects in my app:
 - State-management using Inherited Widget
 
 
-
-
-
-
-https://user-images.githubusercontent.com/61396515/190113552-e707a42f-a545-4892-aedb-8d656e2df87e.mp4 
-
-
-
-https://user-images.githubusercontent.com/61396515/190113638-7df88108-c80a-41bc-b193-6076b6d02d16.mp4
-
-
-
-https://user-images.githubusercontent.com/61396515/190113686-3d2c3a71-1ffd-48db-a95d-ac1e8798816c.mp4
-
-
-
-https://user-images.githubusercontent.com/61396515/190113822-07421458-9f6c-465e-93fb-d498631795c5.mp4
 
