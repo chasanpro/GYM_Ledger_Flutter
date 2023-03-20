@@ -1,5 +1,5 @@
 # Ledger APP made with Flutter💙
-
+![20230129_150514055-01](https://user-images.githubusercontent.com/61396515/215318527-2e0001eb-6876-4a5f-939f-ca143660576c.jpeg)
 
 
 A few resources to get you started if this is your first Flutter project:
@@ -37,7 +37,7 @@ Flutter Aspects in my app:
 - Animated List view ,lazy loading 
 - State-management using Inherited Widget
 
-![20230129_150514055-01](https://user-images.githubusercontent.com/61396515/215318527-2e0001eb-6876-4a5f-939f-ca143660576c.jpeg)
+
 
 
 
